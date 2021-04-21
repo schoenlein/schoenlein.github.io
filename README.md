@@ -1,5 +1,6 @@
-#WELCOME! 
+### WELCOME! 
 
+# This is the start of my own personal website. Stay tuned for more to come!
 
 
 
