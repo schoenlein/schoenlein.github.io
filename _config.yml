@@ -5,7 +5,7 @@ title: M. A. Schoenlein
 author: Melissa Schoenlein
 description: > 
  Perceptual Psychology PhD Student
-baseurl: "schoenlein.github.io"
+baseurl: ""
 
 plugins:
   - jekyll-feed
