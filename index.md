@@ -6,10 +6,10 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Hi there!
 banner_subtitle: Melissa Schoenlein
-background_image: /images/background.jpeg
+background_image: /images/NYC4.jpg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+page_url: /M.A.Schoenlein # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
 favicon: /assets/ico/favicon.ico
@@ -42,7 +42,7 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-###  **About me**
+###  
 
 I'm a 3rd year Phd student at the University of Wisconsin-Madison.
   
