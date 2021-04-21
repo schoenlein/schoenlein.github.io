@@ -1,6 +1,8 @@
 ## WELCOME! 
 
-This is the start of my own personal website. Stay tuned for more to come!
+This is the start of my own personal website, which you can find here: schoenlein.github.io
+
+Stay tuned for more to come!
 
 
 
