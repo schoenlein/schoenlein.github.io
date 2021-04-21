@@ -1,11 +1,12 @@
-### WELCOME! 
+## WELCOME! 
 
-# This is the start of my own personal website. Stay tuned for more to come!
-
-
+This is the start of my own personal website. Stay tuned for more to come!
 
 
 
+
+
+# --- 
 
 ## Additional Information
 Created by [Sara Gong](https://saragong.github.io/), University of Southern California.  
