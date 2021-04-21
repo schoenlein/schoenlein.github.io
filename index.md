@@ -42,14 +42,7 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+###  **About me**
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+I'm a 3rd year Phd student at the University of Wisconsin-Madison.
   
-**hello** I'm a 3rd year Phd student at the University of Wisconsin-Madison.
-  
-
-
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.

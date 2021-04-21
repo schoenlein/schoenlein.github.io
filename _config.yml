@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: SchoenleinWebsite
+title: M. A. Schoenlein
 author: Melissa Schoenlein
 description: > 
  Perceptual Psychology PhD Student
-baseurl: ""
+baseurl: "schoenlein.github.io"
 
 plugins:
   - jekyll-feed
