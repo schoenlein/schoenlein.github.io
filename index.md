@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Hi there!
 banner_subtitle: Melissa Schoenlein
-background_image: /images/aliens.png
+background_image: /images/paintBackground-01.png
 
 # all of the following variables are optional -----------------
 #page_url: /hello # only include this variable if you aren't building the page to your primary domain 
