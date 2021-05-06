@@ -36,7 +36,7 @@ portfolio_description: I investigate how color-concept associations are formed. 
 
 # By declaring these variables, you can include a CTA section.
 cta: Connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta_description: questions or comments? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
 cta_button: mailto:schoenlein@wisc.edu # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
@@ -45,7 +45,9 @@ cta_button_label: contact # the label on the button
 
 Hi there!  
 
+
 I'm a 3rd year Phd student at the University of Wisconsin-Madison. I work with Dr. Karen Schloss in the Visual Reasoning Lab in the Department of Psychology and Wisconsin Institute for Discovery. 
 
+(this site is a work in progress so stay tuned!)
 
   
