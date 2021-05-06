@@ -1,12 +1,12 @@
 # this file organizes the items in your portfolio, which are placed in the _includes folder
 # in the root directory
 
-Work:
+work:
   - category: Color-concept associations
     items:
-      - item: ccassoc.html
+      - item: ccassociations.html
         image: /images/aliens.png # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: example2.html
         image: /images/NYC2.jpg
       - item: example2.html
         image: /images/NYC3.jpg
@@ -14,9 +14,9 @@ Work:
         image: /images/NYC4.jpg
   - category: Los Angeles
     items:
-      - item: example.html
+      - item: example2.html
         image: /images/LA1.jpg
-      - item: example.html
+      - item: example2.html
         image: /images/LA2.jpg
       - item: example2.html
         image: /images/LA3.jpg
